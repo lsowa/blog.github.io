@@ -3,6 +3,7 @@
 ```
 import code
 
-[This is a link](https://lmgtfy.app/?q=how+to+learn+english) and ![Image](src)
+this is code
 ```
 
+[This is a link](https://lmgtfy.app/?q=how+to+learn+english) and ![Image](src)
