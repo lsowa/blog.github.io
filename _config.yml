@@ -1,2 +1,5 @@
 theme: jekyll-theme-dinky
 title: wolcome to my blog
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
